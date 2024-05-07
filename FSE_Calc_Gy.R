@@ -1,3 +1,5 @@
+##install package if required 
+install.packages(("ramify","ramify", "StratigrapheR")
 ##package to install for the code 
 library(ramify)
 library(Hmisc)
